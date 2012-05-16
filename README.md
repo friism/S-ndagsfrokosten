@@ -1,0 +1,1 @@
+App is running here: [http://sndagsfrokosten.apphb.com/](http://sndagsfrokosten.apphb.com/)
